@@ -20,3 +20,9 @@ A simple and interactive To-Do List web application built using **HTML**, **CSS*
 
 ## 📂 Project Structure
 
+to-do-list/
+│
+├── index.html # Main HTML file
+├── style.css # Styling (CSS)
+├── script.js # JavaScript logic
+└── README.md # Project documentation
