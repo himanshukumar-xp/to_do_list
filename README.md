@@ -26,3 +26,12 @@ to-do-list/
 ├── style.css # Styling (CSS),
 ├── script.js # JavaScript logic,
 └── README.md # Project documentation
+
+
+## 🔧 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/himanshukumar-xp/to-do-list.git
+   cd to-do-list
+```
