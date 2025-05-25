@@ -31,7 +31,8 @@ to-do-list/
 ## 🔧 How to Use
 
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/himanshukumar-xp/to-do-list.git
    cd to-do-list
-```
+   ```
+Author : Himanshu Kumar
