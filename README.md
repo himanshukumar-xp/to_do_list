@@ -18,16 +18,6 @@ A simple and interactive To-Do List web application built using **HTML**, **CSS*
 - **CSS3** – Styling and responsive layout
 - **JavaScript** – Dynamic interactions and local storage
 
-## 📂 Project Structure
-
-to-do-list/
-│
-├── index.html # Main HTML file,
-├── style.css # Styling (CSS),
-├── script.js # JavaScript logic,
-└── README.md # Project documentation
-
-
 ## 🔧 How to Use
 
 1. Clone this repository:
